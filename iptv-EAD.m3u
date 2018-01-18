@@ -58,6 +58,8 @@ https://gratis.iptvcanales.com/~sbvlubrl/J02/53.m3u8
 https://gratis.iptvcanales.com/~sbvlubrl/J02/512.m3u8
 #EXTINF:-1 group-title="Deportes",Fox Sports Sur
 https://gratis.iptvcanales.com/~sbvlubrl/J02/402.m3u8
+#EXTINF:-1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="Deportes", Univision Deportes
+https://clutch.vaughnsoft.net/ord/vl/psn85v.m3u8
 #EXTINF:-1 tvg-logo="http://ragnaroktv.com/logostv/deportes/6.png" group-title="Deportes", UNIVISION TDN
 http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/2gy8t5h.jpg" group-title="Deportes",Univision TDN
