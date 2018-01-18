@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, Reactivación de ciertos canales
-sd
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/frio/J04/channel.php/live1/azteca7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Logo_Azteca_7.png" group-title="Entretenimiento", Azteca7 (MX)
 http://live.izzitv.mx/Content/HLS/Live/Channel(Azteca7)/index.m3u8
