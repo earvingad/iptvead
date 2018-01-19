@@ -82,8 +82,7 @@ https://gratis.iptvcanales.com/~sbvlubrl/J04/channel.php/live3/beinliga/playlist
 https://gratis.iptvcanales.com/~sbvlubrl/J04/channel.php/live1/plusdeportes1/playlist.m3u8
 #EXTINF:-1 group-title="Deportes",M+ Deportes 2
 https://gratis.iptvcanales.com/~sbvlubrl/J04/channel.php/live1/plusdeportes2/playlist.m3u8
-#EXTINF:-1 #EXTINF:-1,NFL NOW
-https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8,NFL NOW
+#EXTINF:-1 group-title="Deportes",NFL NOW
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 
 #EXTINF:-1,CINE
