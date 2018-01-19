@@ -25,8 +25,8 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 http://channels.premiumtutv.com/stream_7_sk_st.m3u8
 #EXTINF:-1 group-title="Entretenimiento",COMEDY CENTAL izzi
 http://live.izzitv.mx/Content/HLS/Live/Channel(COMEDY_CENTRAL)/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Comedy Central gra
-https://gratis.iptvcanales.com/~sbvlubrl/J02/135.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Comedy Central vall
+http://142.0.43.4:25461/live/televall1/televall-01/101.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/09/Logo_Distrito_Comedia.png/revision/latest?cb=20160812222848" group-title="Entretenimiento", Distrito Comedia (MX)
 http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
 
@@ -44,6 +44,12 @@ http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(03)/index.m3u8
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 3
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Fox Sports
+http://142.0.43.4:25461/live/televall1/televall-01/98.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Fox Sports 2
+http://142.0.43.4:25461/live/televall1/televall-01/99.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Fox Sports 3
+http://142.0.43.4:25461/live/televall1/televall-01/100.m3u8
 #EXTINF:-1 tvg-logo="http://cosmocable.mx/imgs/canales/logo_tvcdep.png" group-title="Deportes", TVC Deportes
 https://latamonly-lh.akamaihd.net/i/tvcdeporteshd_1@578064/master.m3u8
 #EXTINF:-1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="Deportes", Univision Deportes
