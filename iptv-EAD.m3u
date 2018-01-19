@@ -150,19 +150,27 @@ https://gratis.iptvcanales.com/~sbvlubrl/J04/channel.php/live1/foxaction/playlis
 
 #EXTINF:-1,MUSICA
 
-#EXTINF:-1 tvg-logo="http://ragnaroktv.com/logostv/musica/2.png" group-title="Musica", MTV Live HD
-http://ragnaroktv.com/hls/issii/4/7/MTV_Live_HD.m3u8
-#EXTINF:-1 tvg-logo="http://ragnaroktv.com/logostv/musica/3.png" group-title="Musica", RITMOSON
-http://ragnaroktv.com/hls/issii/4/7/RITMOSON.m3u8
-#EXTINF:-1 tvg-logo="http://ragnaroktv.com/logostv/musica/4.png" group-title="Musica", MTV HD
-http://ragnaroktv.com/hls/issii/4/7/MTV_HD.m3u8
-#EXTINF:-1 tvg-logo="http://ragnaroktv.com/logostv/musica/4.png" group-title="Musica", MTV HD(alt)
-https://gratis.iptvcanales.com/~sbvlubrl/J02/69.m3u8
-#EXTINF:-1 tvg-logo="http://ragnaroktv.com/logostv/musica/5.png" group-title="Musica", VH1
+#EXTINF:-1 tvg-logo="http://puu.sh/maO70/72d9b8319f.png" group-title="Musica", MTV
+http://189.216.247.113/Content/HLS/Live/Channel(MTV_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mtv-logo-436D149512-seeklogo.com.gif" group-title="Musica",MTV (MX) izzi
+http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/52/a4/61/52a4619149640a0c9a25474e5a9903ce--mtv-music-live-hd.jpg" group-title="Musica",MTV Live (MX) izzi
+http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://defleppard.primarywave.netdna-cdn.com/wp-content/uploads/2015/11/vh1-2.jpg" group-title="Musica",VH1 (MX) izzi
+http://live.izzitv.mx/Content/HLS/Live/Channel(VH1)/index.m3u8
+#EXTINF:-1 tvg-logo="http://ragnaroktv.com/logostv/musica/5.png" group-title="Musica", VH1 ragna
 http://ragnaroktv.com/hls/issii/4/7/VH1.m3u8
-#EXTINF:-1 tvg-logo="http://ragnaroktv.com/logostv/musica/1.png" group-title="Musica", BANDAMAX
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1e/Telehit-logo.gif/revision/latest?cb=20120102193439" group-title="Musica",Telehit (MX) izzi
+http://live.izzitv.mx/Content/HLS/Live/Channel(TELEHIT)/index.m3u8
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/012011/ritmoson_latino.png?itok=nlibB5QW" group-title="Musica",Ritmoson (MX) izzi
+http://live.izzitv.mx/Content/HLS/Live/Channel(RITMOSON)/index.m3u8
+#EXTINF:-1 tvg-logo="http://ragnaroktv.com/logostv/musica/3.png" group-title="Musica", RITMOSON ragna
+http://ragnaroktv.com/hls/issii/4/7/RITMOSON.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-AVVmkMifPhI/Vk0NGinOFhI/AAAAAAAAAJ4/chLosF6G09U/s1600/bamax.png",BANDAMAX (MX) izzi
+http://live.izzitv.mx/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
+#EXTINF:-1 tvg-logo="http://ragnaroktv.com/logostv/musica/1.png" group-title="Musica", BANDAMAX ragna
 http://ragnaroktv.com/hls/issii/4/6/BANDAMAX.m3u8
-#EXTINF:-1 tvg-logo="http://ragnaroktv.com/logostv/musica/6.png" group-title="Musica", Telehit
+#EXTINF:-1 tvg-logo="http://ragnaroktv.com/logostv/musica/6.png" group-title="Musica", Telehit ragna
 http://ragnaroktv.com/hls/issii/4/7/TELEHIT.m3u8
 
 #EXTINF:-1,INFANTIL
