@@ -144,7 +144,7 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
 #EXTINF:-1 tvg-logo="http://i62.tinypic.com/23t3zp3.jpg" group-title="Cine",H2 (MX) izzi
 http://live.izzitv.mx/Content/HLS/Live/Channel(h2)/index.m3u8
 #EXTINF:-1 group-title="Cine",Discovery Channel Vall
-http://142.0.43.4:25461/live/televall2/televall-02/121.m3u8
+http://142.0.43.4:25461/live/televall2/televall-02/136.m3u8
 #EXTINF:-1 tvg-logo="http://stowerenergy.com/wp-content/uploads/2015/09/nat-geo-logo.jpg" group-title="Cine",Nat Geo (MX)
 http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
 #EXTINF:-1 tvg-logo="http://stowerenergy.com/wp-content/uploads/2015/09/nat-geo-logo.jpg" group-title="Cine",Nat Geo
