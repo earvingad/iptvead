@@ -56,7 +56,9 @@ http://142.0.43.4:25461/live/televall2/televall-02/100.m3u8
 http://142.0.43.4:25461/live/televall2/televall-02/77.m3u8
 #EXTINF:-1 tvg-logo="http://cosmocable.mx/imgs/canales/logo_tvcdep.png" group-title="Deportes", TVC Deportes
 https://latamonly-lh.akamaihd.net/i/tvcdeporteshd_1@578064/master.m3u8
-#EXTINF:-1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="Deportes", Univision Deportes
+#EXTINF:1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="Deportes",U Deportes
+http://live.zonasports.me/envivo/ch16/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="Deportes",Univision Deportes
 https://clutch.vaughnsoft.net/ord/vl/psn85v.m3u8
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/2gy8t5h.jpg" group-title="Deportes",Univision TDN
 http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
