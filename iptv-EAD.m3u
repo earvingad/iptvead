@@ -52,14 +52,16 @@ http://142.0.43.4:25461/live/televall2/televall-02/98.m3u8
 http://142.0.43.4:25461/live/televall2/televall-02/99.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deportes", Fox Sports 3
 http://142.0.43.4:25461/live/televall2/televall-02/100.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VtTCCOj.png" group-title="Deportes", Fox Sports
+http://200.78.215.85:8010/play/a09g
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7G8sksK.png" group-title="Deportes", Fox Sports 2
+http://200.78.215.85:8010/play/a0ay
+#EXTINF:-1 group-title="Deportes",FS Vall
+http://142.0.43.4:25461/live/televall2/televall-02/73.m3u8
 #EXTINF:-1 group-title="Deportes",FS2 Vall
 http://142.0.43.4:25461/live/televall2/televall-02/77.m3u8
-#EXTINF:-1 tvg-logo="http://cosmocable.mx/imgs/canales/logo_tvcdep.png" group-title="Deportes", TVC Deportes
-https://latamonly-lh.akamaihd.net/i/tvcdeporteshd_1@578064/master.m3u8
-#EXTINF:1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="Deportes",U Deportes
-http://live.zonasports.me/envivo/ch16/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="Deportes",Univision Deportes
-https://clutch.vaughnsoft.net/ord/vl/psn85v.m3u8
+#EXTINF:-1 group-title="Deportes",FS plus Vall
+http://142.0.43.4:25461/live/televall2/televall-02/72.m3u8
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/2gy8t5h.jpg" group-title="Deportes",Univision TDN
 http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
 #EXTINF:-1 tvg-logo="http://latino-webtv.com/gallery_gen/127af058e6f74c9564b658bef16954c6_160x80.png" group-title="Deportes",TDN (MX) izzi
@@ -70,45 +72,47 @@ http://ragnaroktv.com/hls/issii/4/7/TDN.m3u8
 http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
 #EXTINF:-1 group-title="Deportes",DirecTV Sports Vall
 http://142.0.43.4:25461/live/televall2/televall-02/121.m3u8
-#EXTINF:-1 group-title="Deportes",Eurosport 1
-https://gratis.iptvcanales.com/~sbvlubrl/J04/channel.php/live1/eurosport/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",Eurosport 2
-https://gratis.iptvcanales.com/~sbvlubrl/J04/channel.php/live1/eurosport2/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",GolTV
-https://gratis.iptvcanales.com/~sbvlubrl/J04/channel.php/live1/goltv/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",M+ Futbol
-https://gratis.iptvcanales.com/~sbvlubrl/J04/channel.php/live3/plusfutbol/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cosmocable.mx/imgs/canales/logo_tvcdep.png" group-title="Deportes", TVC Deportes
+https://latamonly-lh.akamaihd.net/i/tvcdeporteshd_1@578064/master.m3u8
 #EXTINF:-1 group-title="Deportes",BeinSports Vall
 http://142.0.43.4:25461/live/televall2/televall-02/112.m3u8
-#EXTINF:-1 group-title="Deportes",BeinSport
-https://gratis.iptvcanales.com/~sbvlubrl/J04/channel.php/live3/beinsport/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",BeinSport Liga
-https://gratis.iptvcanales.com/~sbvlubrl/J04/channel.php/live3/beinliga/playlist.m3u8
 #EXTINF:-1 group-title="Deportes",M+ Deportes
 http://142.0.43.4:25461/live/televall2/televall-02/64.m3u8
-#EXTINF:-1 group-title="Deportes",M+ Deportes 2
-https://gratis.iptvcanales.com/~sbvlubrl/J04/channel.php/live1/plusdeportes2/playlist.m3u8
 #EXTINF:-1 group-title="Deportes",NFL NOW
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 #EXTINF:-1 group-title="Deportes",NFL Net Vall
 http://142.0.43.4:25461/live/televall2/televall-02/76.m3u8
+#EXTINF:-1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="Deportes",Deportes Varios
+http://live.zonasports.me/envivo/ch16/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="Deportes",Deportes Varios1
+http://live.zonasports.me/envivo/ch14/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="Deportes",Deportes Varios2
+https://clutch.vaughnsoft.net/ord/vl/psn85v.m3u8
 
 #EXTINF:-1,CINE
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/hbomax/1.png" group-title="Cine", HBO
 http://200.78.215.85:8010/play/a09r
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/hbomax/1.png" group-title="Cine", HBO Vall
-http://142.0.43.4:25461/live/televall2/televall-02/193.m3u8
 #EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-plus-w.gif" group-title="Cine", HBO Plus
 http://200.78.215.85:8010/play/a09t
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/hbomax/1.png" group-title="Cine", HBO Vall
+http://142.0.43.4:25461/live/televall2/televall-02/193.m3u8
 #EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-plus-w.gif" group-title="Cine", HBO Plus Vall
 http://142.0.43.4:25461/live/televall2/televall-02/192.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cine", FOX
+#EXTINF:-1 tvg-logo="" group-title="Cine", FOX Vall 
 http://142.0.43.4:25461/live/televall2/televall-02/105.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cine", FOX Action
+#EXTINF:-1 tvg-logo="" group-title="Cine", FOX Action Vall
 http://142.0.43.4:25461/live/televall2/televall-02/92.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cine", Fox Movies
+#EXTINF:-1 tvg-logo="" group-title="Cine", Fox Movies Vall
 http://142.0.43.4:25461/live/televall2/televall-02/118.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/2.png" group-title="Cine", Fox
+http://200.78.215.85:8010/play/a0c3
+EXTINF:-1 tvg-logo="http://www.jazarah.net/directory/wp-content/logos/Media/foxseries.jpg" group-title="Cine", Fox Premium Series
+http://200.78.215.85:8010/play/a09x
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-action.png" group-title="Cine", Fox Action
+http://200.78.215.85:8010/play/a0b3
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-movies-hd.png" group-title="Cine", Fox Movies
+http://200.78.215.85:8010/play/a09y
 #EXTINF:-1 group-title="Cine",FX TV VALL
 http://142.0.43.4:25461/live/televall2/televall-02/123.m3u8
 #EXTINF:-1 group-title="Cine",FXM TV VALL
@@ -119,8 +123,12 @@ http://142.0.43.4:25461/live/televall2/televall-02/124.m3u8
 http://live.izzitv.mx/Content/HLS/Live/Channel(WARNER)/index.m3u8
 #EXTINF:-1 group-title="Cine",STUDIO UNIVERSAL TV VALL
 http://142.0.43.4:25461/live/televall2/televall-02/137.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/3.png" group-title="Cine", Warner Channel
+http://200.78.215.85:8010/play/a0bq
 #EXTINF:-1 group-title="Cine",UNIVERSAL CHANNEL VALL
 http://142.0.43.4:25461/live/televall2/televall-02/84.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/15.png" group-title="Cine", Universal Channel
+http://200.78.215.85:8010/play/a09j
 #EXTINF:-1 tvg-logo="http://www.tntla.com/billboard/images/logo_tnt_grey.png" group-title="Cine", TNT
 http://200.78.215.85:8010/play/a08q
 #EXTINF:-1 tvg-logo="http://i.cdn.turner.com/tntla/images/portal/fixed/latingrammy/images/logo_tnt_grey.png?v=2" group-title="Cine", TNT
@@ -216,12 +224,12 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklis
 
 #EXTINF:-1,INFANTIL
 
+#EXTINF:-1 tvg-logo="http://tbsila.cdn.turner.com/toonla/images/cnemea/site/static-3.1.90/img/cnlogo_social.png" group-title="Infantil",Cartoon Network (MX)
+http://live.izzitv.mx/Content/HLS/Live/Channel(CARTOON_NETWORK)/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infantil", Nick Jr
 http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mb3Dz/67ee44ac5a.png" group-title="Infantil", Nick 2 (MX)
 http://live.izzitv.mx/Content/HLS/Live/Channel(NICK2_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="http://tbsila.cdn.turner.com/toonla/images/cnemea/site/static-3.1.90/img/cnlogo_social.png" group-title="Infantil",Cartoon Network (MX)
-http://live.izzitv.mx/Content/HLS/Live/Channel(CARTOON_NETWORK)/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png?maxdimension=&quality=0.75" group-title="Infantil",Nick JR (MX)
 http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
 #EXTINF:-1 tvg-logo="http://i61.tinypic.com/2j295ww.jpg",Nick(MX)
