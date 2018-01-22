@@ -8,7 +8,7 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(Azteca7)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Logo_Azteca_7.png" group-title="Entretenimiento", Azteca7
 http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Logo_Azteca_7.png" group-title="Entretenimiento", Azteca 7
-http://ragnaroktv.com/hls/izzi/4/7/Azteca7.m3u8
+http://ragnaroktv.com/hls/issii/4/7/Azteca7.m3u8
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/azteca-trece.png" group-title="Entretenimiento", Azteca Trece
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/azteca-trece.png" group-title="Entretenimiento", Azteca Trece Vall
@@ -56,6 +56,8 @@ http://142.0.43.4:25461/live/televall2/televall-02/100.m3u8
 http://200.78.215.85:8010/play/a09g
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7G8sksK.png" group-title="Deportes", Fox Sports 2
 http://200.78.215.85:8010/play/a0ay
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7G8sksK.png" group-title="Deportes", Fox Sports 3
+http://200.78.215.85:8010/play/a08m
 #EXTINF:-1 group-title="Deportes",FS Vall
 http://142.0.43.4:25461/live/televall2/televall-02/73.m3u8
 #EXTINF:-1 group-title="Deportes",FS2 Vall
@@ -107,7 +109,7 @@ http://142.0.43.4:25461/live/televall2/televall-02/92.m3u8
 http://142.0.43.4:25461/live/televall2/televall-02/118.m3u8
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/2.png" group-title="Cine", Fox
 http://200.78.215.85:8010/play/a0c3
-EXTINF:-1 tvg-logo="http://www.jazarah.net/directory/wp-content/logos/Media/foxseries.jpg" group-title="Cine", Fox Premium Series
+#EXTINF:-1 tvg-logo="http://www.jazarah.net/directory/wp-content/logos/Media/foxseries.jpg" group-title="Cine", Fox Premium Series
 http://200.78.215.85:8010/play/a09x
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-action.png" group-title="Cine", Fox Action
 http://200.78.215.85:8010/play/a0b3
@@ -121,10 +123,10 @@ http://142.0.43.4:25461/live/televall2/televall-02/138.m3u8
 http://142.0.43.4:25461/live/televall2/televall-02/124.m3u8
 #EXTINF:-1 group-title="Cine",WARNER BROTHER izzi
 http://live.izzitv.mx/Content/HLS/Live/Channel(WARNER)/index.m3u8
-#EXTINF:-1 group-title="Cine",STUDIO UNIVERSAL TV VALL
-http://142.0.43.4:25461/live/televall2/televall-02/137.m3u8
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/3.png" group-title="Cine", Warner Channel
 http://200.78.215.85:8010/play/a0bq
+#EXTINF:-1 group-title="Cine",STUDIO UNIVERSAL TV VALL
+http://142.0.43.4:25461/live/televall2/televall-02/137.m3u8
 #EXTINF:-1 group-title="Cine",UNIVERSAL CHANNEL VALL
 http://142.0.43.4:25461/live/televall2/televall-02/84.m3u8
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/15.png" group-title="Cine", Universal Channel
