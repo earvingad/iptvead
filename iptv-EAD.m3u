@@ -96,6 +96,40 @@ http://live.zonasports.me/envivo/ch16/playlist.m3u8
 http://live.zonasports.me/envivo/ch14/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="Deportes",Deportes Varios2
 https://clutch.vaughnsoft.net/ord/vl/psn85v.m3u8
+#EXTINF:-1 group-title="Deportes",SkySports Main Event
+http://www.error56753.website/89d139/live/17804.m3u8
+#EXTINF:-1 group-title="Deportes",SkySports 1
+https://edge3.liveonlinetv247.com/live/skysports1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDEyOjI5OjAyIEFNJmhhc2hfdmFsdWU9QXZTSlNwSi9SMExVWVd1Y2NxaXFEUT09JnZhbGlkbWludXRlcz02MCZpZD0xODcuMTQyLjEzOC4yMzAmc3RybV9sZW49MTg=
+#EXTINF:-1 group-title="Deportes",SkySports Premier League
+http://www.error56753.website/89d139/live/17805.m3u8
+#EXTINF:-1 group-title="Deportes",SkySports Football
+http://www.error56753.website/89d139/live/17806.m3u8
+#EXTINF:-1 group-title="Deportes",BTSports
+http://www.error56753.website/89d139/live/17811.m3u8
+#EXTINF:-1 group-title="Deportes",BTSports2
+http://www.error56753.website/80d34/live/17812.m3u8
+#EXTINF:-1 group-title="Deportes",BTSports3
+http://www.error56753.website/89d139/live/17813.m3u8
+#EXTINF:-1 group-title="Deportes",M+ deportes
+http://peta9.pedromo.me/live/plusdeportes/index.m3u8?token=WamgV3pSTKK9kB_6hezIdA&expires=1516748674
+#EXTINF:-1 group-title="Deportes",M+ deportes2
+http://peta14.pedromo.me/live/plusdeportes2/index.m3u8?token=-PhZmKRizBKoazah5tHJIA&expires=1516748759
+#EXTINF:-1 group-title="Deportes",M+ football
+http://peta157.pedromo.me/live/plusfutbol/index.m3u8?token=09OlmTgsL-miE2rC_Gy3vg&expires=1516748822
+#EXTINF:-1 group-title="Deportes",beIN 1
+https://edge1.liveonlinetv247.com/live/bein1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDEyOjIyOjMzIEFNJmhhc2hfdmFsdWU9UW5VN01jS1Y5ZWxoRHpId1BRZDNDUT09JnZhbGlkbWludXRlcz02MCZpZD0xODcuMTQyLjEzOC4yMzAmc3RybV9sZW49MTM=
+#EXTINF:-1 group-title="Deportes",beIN 2
+https://edge1.liveonlinetv247.com/live/bein2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDEyOjI1OjAwIEFNJmhhc2hfdmFsdWU9K1MvYVMvV215SlBoYjI1b1FFaEM4dz09JnZhbGlkbWludXRlcz02MCZpZD0xODcuMTQyLjEzOC4yMzAmc3RybV9sZW49MTM=
+#EXTINF:-1 group-title="Deportes",beIN 3
+https://edge1.liveonlinetv247.com/live/bein3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDEyOjI2OjI4IEFNJmhhc2hfdmFsdWU9NkJLTmpFRm0zb3JPT1pORDBQOEFVUT09JnZhbGlkbWludXRlcz02MCZpZD0xODcuMTQyLjEzOC4yMzAmc3RybV9sZW49MTM=
+#EXTINF:-1 group-title="Deportes",beIN 4
+https://edge1.liveonlinetv247.com/live/bein4-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDEyOjI2OjQ0IEFNJmhhc2hfdmFsdWU9dW53OGx2YnVXQTRxSjh3RklIMDhZdz09JnZhbGlkbWludXRlcz02MCZpZD0xODcuMTQyLjEzOC4yMzAmc3RybV9sZW49MTM=
+#EXTINF:-1 group-title="Deportes",beIN 5
+https://edge1.liveonlinetv247.com/live/bein5-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDEyOjI3OjA1IEFNJmhhc2hfdmFsdWU9YkVNSzNUZWl6NzFvOTB3RlFnaW4vQT09JnZhbGlkbWludXRlcz02MCZpZD0xODcuMTQyLjEzOC4yMzAmc3RybV9sZW49MTM=
+#EXTINF:-1 group-title="Deportes",beIN 6
+https://edge2.liveonlinetv247.com/live/bein6-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDEyOjI3OjE3IEFNJmhhc2hfdmFsdWU9OS95eTE4cDFyejdYbEhQRXR0UEtvZz09JnZhbGlkbWludXRlcz02MCZpZD0xODcuMTQyLjEzOC4yMzAmc3RybV9sZW49MTM=
+#EXTINF:-1 group-title="Deportes",beIN 7
+https://edge3.liveonlinetv247.com/live/bein7-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDEyOjI3OjU4IEFNJmhhc2hfdmFsdWU9dElmaWRIdnVQbkc2RlI1UzJWeDRXdz09JnZhbGlkbWludXRlcz02MCZpZD0xODcuMTQyLjEzOC4yMzAmc3RybV9sZW49MTM=
 
 #EXTINF:-1,CINE
 
@@ -107,6 +141,8 @@ http://200.78.215.85:8010/play/a09t
 http://142.0.43.4:25461/live/televall2/televall-02/193.m3u8
 #EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-plus-w.gif" group-title="Cine", HBO Plus Vall
 http://142.0.43.4:25461/live/televall2/televall-02/192.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cine", FOX
+http://2247.janjuaplayer.com:8088/live/foxmalosotv666/playlist.m3u8?id=74163&pk=fb0f4fd67ea1bbd44285ace4fe7358ac468a0bbd3b4d91295afa3c21c59faea8
 #EXTINF:-1 tvg-logo="" group-title="Cine", FOX Vall 
 http://142.0.43.4:25461/live/televall2/televall-02/105.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cine", FOX Action Vall
@@ -125,6 +161,8 @@ http://200.78.215.85:8010/play/a09y
 http://142.0.43.4:25461/live/televall2/televall-02/123.m3u8
 #EXTINF:-1 group-title="Cine",FXM TV VALL
 http://142.0.43.4:25461/live/televall2/televall-02/138.m3u8
+#EXTINF:-1 group-title="Cine",WARNER BROTHER TV 
+http://2247.janjuaplayer.com:8088/live/warnermalosotv666/playlist.m3u8?id=74157&pk=fb0f4fd67ea1bbd44285ace4fe7358ac468a0bbd3b4d91295afa3c21c59faea8
 #EXTINF:-1 group-title="Cine",WARNER BROTHER TV VALL
 http://142.0.43.4:25461/live/televall2/televall-02/124.m3u8
 #EXTINF:-1 group-title="Cine",WARNER BROTHER izzi
@@ -175,6 +213,8 @@ http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
 
 #EXTINF:-1,MUSICA
 
+#EXTINF:-1 tvg-logo="http://puu.sh/maO70/72d9b8319f.png" group-title="Musica", MTV
+ttp://2245.janjuaplayer.com:8088/live/mtvmalosotv666/playlist.m3u8?id=74163&pk=fb0f4fd67ea1bbd44285ace4fe7358ac468a0bbd3b4d91295afa3c21c59faea8
 #EXTINF:-1 tvg-logo="http://puu.sh/maO70/72d9b8319f.png" group-title="Musica", MTV
 http://189.216.247.113/Content/HLS/Live/Channel(MTV_HD)/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mtv-logo-436D149512-seeklogo.com.gif" group-title="Musica",MTV (MX) izzi
