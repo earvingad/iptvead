@@ -119,7 +119,11 @@ http://peta157.pedromo.me/live/plusfutbol/index.m3u8?token=09OlmTgsL-miE2rC_Gy3v
 #EXTINF:-1 group-title="Deportes",beIN 1
 https://edge1.liveonlinetv247.com/live/bein1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDEyOjIyOjMzIEFNJmhhc2hfdmFsdWU9UW5VN01jS1Y5ZWxoRHpId1BRZDNDUT09JnZhbGlkbWludXRlcz02MCZpZD0xODcuMTQyLjEzOC4yMzAmc3RybV9sZW49MTM=
 #EXTINF:-1 group-title="Deportes",beIN 2
+https://edge2.liveonlinetv247.com/live/bein2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDE6MDM6MzIgQU0maGFzaF92YWx1ZT1nb2hUSGdvQUppTk5YcTkzeE5jcmRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4Ny4xNDIuMTM4LjIzMCZzdHJtX2xlbj0xMw==
+#EXTINF:-1 group-title="Deportes",beIN 2
 https://edge1.liveonlinetv247.com/live/bein2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDEyOjI1OjAwIEFNJmhhc2hfdmFsdWU9K1MvYVMvV215SlBoYjI1b1FFaEM4dz09JnZhbGlkbWludXRlcz02MCZpZD0xODcuMTQyLjEzOC4yMzAmc3RybV9sZW49MTM=
+#EXTINF:-1 group-title="Deportes",beIN 2 client
+https://edge2.liveonlinetv247.com/live/bein2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDE6MDM6MzIgQU0maGFzaF92YWx1ZT1nb2hUSGdvQUppTk5YcTkzeE5jcmRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4Ny4xNDIuMTM4LjIzMCZzdHJtX2xlbj0xMw==|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
 #EXTINF:-1 group-title="Deportes",beIN 3
 https://edge1.liveonlinetv247.com/live/bein3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDEyOjI2OjI4IEFNJmhhc2hfdmFsdWU9NkJLTmpFRm0zb3JPT1pORDBQOEFVUT09JnZhbGlkbWludXRlcz02MCZpZD0xODcuMTQyLjEzOC4yMzAmc3RybV9sZW49MTM=
 #EXTINF:-1 group-title="Deportes",beIN 4
