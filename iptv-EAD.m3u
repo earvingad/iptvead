@@ -85,10 +85,14 @@ https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 #EXTINF:-1 group-title="Deportes",NFL Net Vall
 http://142.0.43.4:25461/live/televall2/televall-02/76.m3u8
 #EXTINF:-1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="Deportes",Deportes Varios
-http://live.zonasports.me/envivo/ch16/playlist.m3u8
+http://live.zonasports.me/envivo/ch13/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="Deportes",Deportes Varios1
 http://live.zonasports.me/envivo/ch14/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="Deportes",Deportes Varios2
+http://live.zonasports.me/envivo/ch15/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="Deportes",Deportes Varios3
+http://live.zonasports.me/envivo/ch16/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="Deportes",Deportes Varios4 (ESPN)
 https://clutch.vaughnsoft.net/ord/vl/psn85v.m3u8
 #EXTINF:-1 group-title="Deportes",SkySports Main Event
 http://www.error56753.website/89d139/live/17804.m3u8
@@ -104,6 +108,8 @@ http://www.error56753.website/89d139/live/17811.m3u8
 http://www.error56753.website/80d34/live/17812.m3u8
 #EXTINF:-1 group-title="Deportes",BTSports3
 http://www.error56753.website/89d139/live/17813.m3u8
+#EXTINF:-1 group-title="Deportes",EuroSports
+http://peta11.pedromo.me/live/eurosport/index.m3u8?token=UIxKz2gFRQvKs937ldoxdA&expires=1516748447|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
 #EXTINF:-1 group-title="Deportes",M+ deportes
 http://peta9.pedromo.me/live/plusdeportes/index.m3u8?token=WamgV3pSTKK9kB_6hezIdA&expires=1516748674|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
 #EXTINF:-1 group-title="Deportes",M+ deportes2
