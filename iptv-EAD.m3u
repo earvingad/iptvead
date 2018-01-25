@@ -46,6 +46,11 @@ http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(03)/index.m3u8
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN+ Vall
 http://142.0.43.4:25461/live/televall2/televall-02/194.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 2
+https://content-ause3.uplynk.com/channel/3c5da31b24b148548d1fc7aa3739e193/b.m3u8?oid=d09b16c953aa40c98dd8c513526aca5a&ad=intlespnspanishlive&ad.csid=watchespn:web:espn_dos_mexico:live:es&ad.caid=37165e2c-b90b-32c6-a5e9-c7daca05cb01&ad.kv=_fw_ae,null,_fw_euid,9742AADE-829A-473D-C7A3-EF2D1E62E1D8&eid=n214a&ct=c&tc=1&exp=1516903898&rn=848608027&sig=b7bc0b411a55fd1c495e6d8288e4fa1be45641084a9dea8e701bb54e673de801&pbs=b85da2e4c6ac4ea191e0fdafe47865ff
+#EXTINF:-1 group-title="Deportes",,ESPN3
+https://content-ause3.uplynk.com/channel/b4801b51805f4a109f87e104d70916a0/e.m3u8?oid=d09b16c953aa40c98dd8c513526aca5a&ad=intlespnspanishlive&ad.csid=watchespn:web:espn3_north:live:es&ad.caid=072da533-53b8-3d37-b302-5b9ccca97395&ad.kv=_fw_ae,null,_fw_euid,9742AADE-829A-473D-C7A3-EF2D1E62E1D8&eid=n418a&ct=c&tc=1&exp=1516906173&rn=1165739658&sig=356f5806be067ff79ae950dba3fa97ff4b5af63757865c581b38dae7284b44b7&pbs=1c8c8a5513984e44a3b8a1bcf2f4314b
+
 #EXTINF:-1 tvg-logo="" group-title="Deportes", Fox Sports
 http://142.0.43.4:25461/live/televall2/televall-02/98.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deportes", Fox Sports 2
@@ -109,7 +114,7 @@ http://www.error56753.website/80d34/live/17812.m3u8
 #EXTINF:-1 group-title="Deportes",BTSports3
 http://www.error56753.website/89d139/live/17813.m3u8
 #EXTINF:-1 group-title="Deportes",EuroSports
-http://peta11.pedromo.me/live/eurosport/index.m3u8?token=UIxKz2gFRQvKs937ldoxdA&expires=1516748447|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+http://peta14.pedromo.me/live/eurosport/index.m3u8?token=icQyvbsZdgT8MeeUWVTkiQ&expires=1516987443|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
 #EXTINF:-1 group-title="Deportes",M+ deportes
 http://peta9.pedromo.me/live/plusdeportes/index.m3u8?token=WamgV3pSTKK9kB_6hezIdA&expires=1516748674|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
 #EXTINF:-1 group-title="Deportes",M+ deportes2
