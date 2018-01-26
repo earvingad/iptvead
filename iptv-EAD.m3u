@@ -3,8 +3,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Logo_Azteca_7.png" group-title="Entretenimiento", Azteca7 (MX)
-http://live.izzitv.mx/Content/HLS/Live/Channel(Azteca7)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Logo_Azteca_7.png" group-title="Entretenimiento", Azteca7
 http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/azteca-trece.png" group-title="Entretenimiento", Azteca Trece
@@ -23,8 +21,9 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 http://142.0.43.4:25461/live/televall2/televall-02/185.m3u8
 #EXTINF:-1 group-title="Entretenimiento",COMEDY CENTAL izzi
 http://live.izzitv.mx/Content/HLS/Live/Channel(COMEDY_CENTRAL)/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Comedy Central vall
-http://142.0.43.4:25461/live/televall2/televall-02/101.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Comedy Central prm
+http://iptv.premiumtutv.com/canal_59_.m3u8
+#EXTINF:-1 ,http://142.0.43.4:25461/live/televall2/televall-02/101.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/09/Logo_Distrito_Comedia.png/revision/latest?cb=20160812222848" group-title="Entretenimiento", Distrito Comedia (MX)
 http://142.0.43.4:25461/live/televall2/televall-02/117.m3u8
 #EXTINF:-1, DEPORTES
@@ -46,21 +45,26 @@ http://142.0.43.4:25461/live/televall2/televall-02/48.m3u8
 http://142.0.43.4:25461/live/televall2/televall-02/49.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN3 Vall
 http://142.0.43.4:25461/live/televall2/televall-02/50.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN2 
-https://content-ause3.uplynk.com/channel/3c5da31b24b148548d1fc7aa3739e193/d.m3u8?oid=d09b16c953aa40c98dd8c513526aca5a&ad=intlespnspanishlive&ad.csid=watchespn:web:espn_dos_mexico:live:es&ad.caid=37165e2c-b90b-32c6-a5e9-c7daca05cb01&ad.kv=_fw_ae,null,_fw_euid,9742AADE-829A-473D-C7A3-EF2D1E62E1D8&eid=n214a&ct=c&tc=1&exp=1516903898&rn=848608027&sig=b7bc0b411a55fd1c495e6d8288e4fa1be45641084a9dea8e701bb54e673de801&pbs=b85da2e4c6ac4ea191e0fdafe47865ff
-#EXTINF:-1 group-title="Deportes",,ESPN3
-https://content-ause3.uplynk.com/channel/b4801b51805f4a109f87e104d70916a0/e.m3u8?oid=d09b16c953aa40c98dd8c513526aca5a&ad=intlespnspanishlive&ad.csid=watchespn:web:espn3_north:live:es&ad.caid=072da533-53b8-3d37-b302-5b9ccca97395&ad.kv=_fw_ae,null,_fw_euid,9742AADE-829A-473D-C7A3-EF2D1E62E1D8&eid=n418a&ct=c&tc=1&exp=1516906173&rn=1165739658&sig=356f5806be067ff79ae950dba3fa97ff4b5af63757865c581b38dae7284b44b7&pbs=1c8c8a5513984e44a3b8a1bcf2f4314b
+#EXTINF:-1 group-title="Deportes",ESPN prm
+http://iptv.premiumtutv.com/canal_95_.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN2 prm 
+http://iptv.premiumtutv.com/canal_35_.m3u8 
+#EXTINF:-1 group-title="Deportes",ESPN3 prm
+http://iptv.premiumtutv.com/canal_36_.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN+ prm
+http://iptv.premiumtutv.com/canal_103_.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", Fox Sports
-http://142.0.43.4:25461/live/televall2/televall-02/98.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Fox Sportshttp://142.0.43.4:25461/live/televall2/televall-02/98.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Fox Sports prm
+http://iptv.premiumtutv.com/canal_102_.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deportes", Fox Sports 2
 http://142.0.43.4:25461/live/televall2/televall-02/99.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deportes", Fox Sports 3
 http://142.0.43.4:25461/live/televall2/televall-02/100.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VtTCCOj.png" group-title="Deportes", Fox Sports
-http://200.78.215.85:8010/play/a09g
+http://iptv.premiumtutv.com/canal_102_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7G8sksK.png" group-title="Deportes", Fox Sports 2
-http://200.78.215.85:8010/play/a0ay
+http://iptv.premiumtutv.com/canal_77_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7G8sksK.png" group-title="Deportes", Fox Sports 3
 http://200.78.215.85:8010/play/a08m
 #EXTINF:-1 group-title="Deportes",Fox deportes Vall
@@ -154,6 +158,8 @@ http://142.0.43.4:25461/live/televall2/televall-02/195.m3u8
 http://142.0.43.4:25461/live/televall2/televall-02/192.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cine", FOX
 http://2247.janjuaplayer.com:8088/live/foxmalosotv666/playlist.m3u8?id=74163&pk=fb0f4fd67ea1bbd44285ace4fe7358ac468a0bbd3b4d91295afa3c21c59faea8
+#EXTINF:-1 tvg-logo="" group-title="Cine", FOX prm
+http://iptv.premiumtutv.com/canal_98_.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cine", FOX Vall 
 http://142.0.43.4:25461/live/televall2/televall-02/105.m3u8
 #EXTINF:-1 tvg-logo="http://www.jazarah.net/directory/wp-content/logos/Media/foxseries.jpg" group-title="Cine", Fox Premium Series
@@ -166,59 +172,69 @@ http://142.0.43.4:25461/live/televall2/televall-02/118.m3u8
 http://200.78.215.85:8010/play/a0c3
 #EXTINF:-1 tvg-logo="http://www.jazarah.net/directory/wp-content/logos/Media/foxseries.jpg" group-title="Cine", Fox Premium Series
 http://200.78.215.85:8010/play/a09x
+#EXTINF:-1 tvg-logo="http://www.jazarah.net/directory/wp-content/logos/Media/foxseries.jpg" group-title="Cine", Fox Premium Series prm
+http://iptv.premiumtutv.com/canal_89_.m3u8
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-action.png" group-title="Cine", Fox Action
 http://200.78.215.85:8010/play/a0b3
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-action.png" group-title="Cine", Fox Action prm
+http://iptv.premiumtutv.com/canal_88_.m3u8
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-movies-hd.png" group-title="Cine", Fox Movies
 http://200.78.215.85:8010/play/a09y
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-movies-hd.png" group-title="Cine", Fox Movies prm
+http://iptv.premiumtutv.com/canal_46_.m3u8 
 #EXTINF:-1 group-title="Cine",FX TV VALL
 http://142.0.43.4:25461/live/televall2/televall-02/123.m3u8
-#EXTINF:-1 group-title="Cine",FXM TV VALL
-http://142.0.43.4:25461/live/televall2/televall-02/138.m3u8
+#EXTINF:-1 group-title="Cine",FXM TV VALLhttp://142.0.43.4:25461/live/televall2/televall-02/138.m3u8
+#EXTINF:-1 group-title="Cine",FXM TV prm
+http://iptv.premiumtutv.com/canal_79_.m3u8
 #EXTINF:-1 group-title="Cine",WARNER BROTHER TV 
 http://2247.janjuaplayer.com:8088/live/warnermalosotv666/playlist.m3u8?id=74157&pk=fb0f4fd67ea1bbd44285ace4fe7358ac468a0bbd3b4d91295afa3c21c59faea8
-#EXTINF:-1 group-title="Cine",WARNER BROTHER TV VALL
-http://142.0.43.4:25461/live/televall2/televall-02/124.m3u8
+#EXTINF:-1 group-title="Cine",WARNER BROTHER TV VALLhttp://142.0.43.4:25461/live/televall2/televall-02/124.m3u8
+#EXTINF:-1 group-title="Cine",WARNER BROTHER TV prm
+http://iptv.premiumtutv.com/canal_76_.m3u8
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/3.png" group-title="Cine", Warner Channel
 http://200.78.215.85:8010/play/a0bq
 #EXTINF:-1 group-title="Cine",STUDIO UNIVERSAL TV VALL
-http://142.0.43.4:25461/live/televall2/televall-02/137.m3u8
-#EXTINF:-1 group-title="Cine",UNIVERSAL CHANNEL VALL
-http://142.0.43.4:25461/live/televall2/televall-02/84.m3u8
+http://iptv.premiumtutv.com/canal_46_.m3u8
+#EXTINF:-1 group-title="Cine",UNIVERSAL CHANNEL VALLhttp://142.0.43.4:25461/live/televall2/televall-02/84.m3u8
+#EXTINF:-1 group-title="Cine",UNIVERSAL CHANNEL prm
+http://iptv.premiumtutv.com/canal_78_.m3u8
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/15.png" group-title="Cine", Universal Channel
 http://200.78.215.85:8010/play/a09j
 #EXTINF:-1 group-title="Cine",Discovery Channel
 http://2222.janjuaplayer.com:8088/live/discoverymalosotv666/playlist.m3u8?id=74157&pk=fb0f4fd67ea1bbd44285ace4fe7358ac468a0bbd3b4d91295afa3c21c59faea8
+#EXTINF:-1 group-title="Cine",Discovery Channel prm
+http://iptv.premiumtutv.com/canal_19_.m3u8
 #EXTINF:-1 tvg-logo="http://www.tntla.com/billboard/images/logo_tnt_grey.png" group-title="Cine", TNT
 http://200.78.215.85:8010/play/a08q
-#EXTINF:-1 tvg-logo="http://i.cdn.turner.com/tntla/images/portal/fixed/latingrammy/images/logo_tnt_grey.png?v=2" group-title="Cine", TNT Vall
-http://142.0.43.4:25461/live/televall2/televall-02/160.m3u8
-#EXTINF:-1 group-title="Cine",SONY Vall
-http://142.0.43.4:25461/live/televall2/televall-02/155.m3u8
-http://live.izzitv.mx/Content/HLS/Live/Channel(SONY)/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_logo_antiguo.jpg" group-title="Cine",AXN (MX) izzi
-http://live.izzitv.mx/Content/HLS/Live/Channel(AXN)/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.cdn.turner.com/tntla/images/portal/fixed/latingrammy/images/logo_tnt_grey.png?v=2" group-title="Cine", TNT Vallhttp://142.0.43.4:25461/live/televall2/televall-02/160.m3u8
+#EXTINF:-1 tvg-logo="http://www.tntla.com/billboard/images/logo_tnt_grey.png" group-title="Cine", TNT prm
+http://iptv.premiumtutv.com/canal_15_.m3u8
+#EXTINF:-1 tvg-logo="http://www.tntla.com/billboard/images/logo_tnt_grey.png" group-title="Cine", TNT series prm
+http://iptv.premiumtutv.com/canal_39_.m3u8
+#EXTINF:-1 group-title="Cine",SONY Vallhttp://142.0.43.4:25461/live/televall2/televall-02/155.m3u8
+#EXTINF:-1 group-title="Cine",SONY prm
+http://iptv.premiumtutv.com/canal_11_.m3u8
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_logo_antiguo.jpg" group-title="Cine",AXN (MX) prm
+http://iptv.premiumtutv.com/canal_74_.m3u8
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_logo_antiguo.jpg" group-title="Cine",AXN (MX) Vall
 http://142.0.43.4:25461/live/televall2/televall-02/147.m3u8
 #EXTINF:-1 tvg-logo="http://i61.tinypic.com/2yovqqh.jpg" group-title="Cine",Space (MX) vall
 http://142.0.43.4:25461/live/televall2/televall-02/104.m3u8
 #EXTINF:-1 group-title="Cine",GOLDEN izzi
 http://live.izzitv.mx/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
-#EXTINF:-1 group-title="Cine",HISTORY Vall
-http://142.0.43.4:25461/live/televall2/televall-02/147.m3u8
-#EXTINF:-1 group-title="Cine",H2 izzi
-http://live.izzitv.mx/Content/HLS/Live/Channel(H2)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i62.tinypic.com/23t3zp3.jpg" group-title="Cine",H2 (MX) izzi
-http://live.izzitv.mx/Content/HLS/Live/Channel(h2)/index.m3u8
-#EXTINF:-1 group-title="Cine",Discovery Channel Vall
-http://142.0.43.4:25461/live/televall2/televall-02/136.m3u8
+#EXTINF:-1 group-title="Cine",HISTORY Vallhttp://142.0.43.4:25461/live/televall2/televall-02/147.m3u8
+#EXTINF:-1 group-title="Cine",HISTORY prm
+http://iptv.premiumtutv.com/canal_83_.m3u8
+#EXTINF:-1 group-title="Cine",H2 izzihttp://live.izzitv.mx/Content/HLS/Live/Channel(H2)/index.m3u8
+#EXTINF:-1 tvg-logo="http://i62.tinypic.com/23t3zp3.jpg" group-title="Cine",H2 (MX) izzihttp://live.izzitv.mx/Content/HLS/Live/Channel(h2)/index.m3u8
+#EXTINF:-1 group-title="Cine",Discovery Channel Vallhttp://142.0.43.4:25461/live/televall2/televall-02/136.m3u8
 #EXTINF:-1 tvg-logo="http://stowerenergy.com/wp-content/uploads/2015/09/nat-geo-logo.jpg" group-title="Cine",Nat Geo (MX)
-http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
-#EXTINF:-1 tvg-logo="http://stowerenergy.com/wp-content/uploads/2015/09/nat-geo-logo.jpg" group-title="Cine",Nat Geo
-http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i58.tinypic.com/11ryvsw.jpg" group-title="Cine",Nat Geo Wild (MX) izzi
-http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i58.tinypic.com/11ryvsw.jpg" group-title="Cine",Nat Geo Wild 
-http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+ttp://iptv.premiumtutv.com/canal_23_.m3u8
+#EXTINF:-1,http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
+#EXTINF:-1 tvg-logo="http://stowerenergy.com/wp-content/uploads/2015/09/nat-geo-logo.jpg" group-title="Cine",Nat Geohttp://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
+#EXTINF:-1 tvg-logo="http://i58.tinypic.com/11ryvsw.jpg" group-title="Cine",Nat Geo Wild (MX) izzihttp://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://i58.tinypic.com/11ryvsw.jpg" group-title="Cine",Nat Geo Wild http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
 
 
 #EXTINF:-1,MUSICA
@@ -227,18 +243,18 @@ http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
 http://2245.janjuaplayer.com:8088/live/mtvmalosotv666/playlist.m3u8?id=74163&pk=fb0f4fd67ea1bbd44285ace4fe7358ac468a0bbd3b4d91295afa3c21c59faea8
 #EXTINF:-1 tvg-logo="http://puu.sh/maO70/72d9b8319f.png" group-title="Musica", MTV vall
 http://142.0.43.4:25461/live/televall2/televall-02/45.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mtv-logo-436D149512-seeklogo.com.gif" group-title="Musica",MTV (MX) izzi
-http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/52/a4/61/52a4619149640a0c9a25474e5a9903ce--mtv-music-live-hd.jpg" group-title="Musica",MTV Live (MX) izzi
-http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mtv-logo-436D149512-seeklogo.com.gif" group-title="Musica",MTV hits (MX) prm
+http://iptv.premiumtutv.com/canal_93_.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/52/a4/61/52a4619149640a0c9a25474e5a9903ce--mtv-music-live-hd.jpg" group-title="Musica",MTV Live (MX) prm
+http://iptv.premiumtutv.com/canal_94_.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/52/a4/61/52a4619149640a0c9a25474e5a9903ce--mtv-music-live-hd.jpg" group-title="Musica",MTV Live (MX) Vall
 http://142.0.43.4:25461/live/televall2/televall-02/143.m3u8
-#EXTINF:-1 tvg-logo="http://defleppard.primarywave.netdna-cdn.com/wp-content/uploads/2015/11/vh1-2.jpg" group-title="Musica",VH1 (MX) izzi
-http://live.izzitv.mx/Content/HLS/Live/Channel(VH1)/index.m3u8
+#EXTINF:-1 tvg-logo="http://defleppard.primarywave.netdna-cdn.com/wp-content/uploads/2015/11/vh1-2.jpg" group-title="Musica",VH1 (MX) prm
+http://iptv.premiumtutv.com/canal_91_.m3u8
 #EXTINF:-1 tvg-logo="http://ragnaroktv.com/logostv/musica/5.png" group-title="Musica", VH1 Vall
 http://142.0.43.4:25461/live/televall2/televall-02/142.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1e/Telehit-logo.gif/revision/latest?cb=20120102193439" group-title="Musica",Telehit (MX) izzi
-http://live.izzitv.mx/Content/HLS/Live/Channel(TELEHIT)/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1e/Telehit-logo.gif/revision/latest?cb=20120102193439" group-title="Musica",Telehit (MX) prm
+http://iptv.premiumtutv.com/canal_100_.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1e/Telehit-logo.gif/revision/latest?cb=20120102193439" group-title="Musica",Telehit (MX) Vall
 http://142.0.43.4:25461/live/televall2/televall-02/146.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/012011/ritmoson_latino.png?itok=nlibB5QW" group-title="Musica",Ritmoson (MX) izzi
@@ -287,7 +303,8 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(NICK2_HD)/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png?maxdimension=&quality=0.75" group-title="Infantil",Nick JR (MX)
 http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
 #EXTINF:-1 tvg-logo="http://i61.tinypic.com/2j295ww.jpg",Nick(MX)
-http://142.0.43.4:25461/live/televall2/televall-02/97.m3u8
+http://iptv.premiumtutv.com/canal_21_.m3u8
+#EXTINF:-1, http://142.0.43.4:25461/live/televall2/televall-02/97.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-iwUTtOMzaiE/U08TQLhmUEI/AAAAAAAAGno/uaCpUitGnG4/s1600/NatsuHen-Locomotion+logo.gif" group-title="Infantil", Locomotion
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Disney Jr.
