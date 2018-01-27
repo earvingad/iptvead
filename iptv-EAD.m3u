@@ -53,7 +53,8 @@ http://iptv.premiumtutv.com/canal_35_.m3u8
 http://iptv.premiumtutv.com/canal_36_.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN+ prm
 http://iptv.premiumtutv.com/canal_103_.m3u8
-
+#EXTINF:-1 group-title="Deportes",Fox deportes Vall
+http://142.0.43.4:25461/live/televal1l1/televall1956/73.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deportes", Fox Sports
 http://142.0.43.4:25461/live/televal1l1/televall1956/98.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deportes", Fox Sports 2
@@ -64,10 +65,6 @@ http://142.0.43.4:25461/live/televal1l1/televall1956/100.m3u8
 http://iptv.premiumtutv.com/canal_102_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7G8sksK.png" group-title="Deportes", Fox Sports 2 prm
 http://iptv.premiumtutv.com/canal_77_.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7G8sksK.png" group-title="Deportes", Fox Sports 3http://200.78.215.85:8010/play/a08m
-#EXTINF:-1 group-title="Deportes",Fox deportes Vallhttp://142.0.43.4:25461/live/televal1l1/televall1956/73.m3u8
-#EXTINF:-1 group-title="Deportes",FS2 Vallhttp://142.0.43.4:25461/live/televal1l1/televall1956/77.m3u8
-#EXTINF:-1 group-title="Deportes",FS plus Vallhttp://142.0.43.4:25461/live/televal1l1/televall1956/72.m3u8
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/2gy8t5h.jpg" group-title="Deportes",Univision TDN Vall
 http://142.0.43.4:25461/live/televal1l1/televall1956/54.m3u8
 #EXTINF:-1 tvg-logo="http://latino-webtv.com/gallery_gen/127af058e6f74c9564b658bef16954c6_160x80.png" group-title="Deportes",TDN (MX) vall
