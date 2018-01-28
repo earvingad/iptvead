@@ -65,6 +65,8 @@ http://142.0.43.4:25461/live/televal1l1/televall1956/100.m3u8
 http://iptv.premiumtutv.com/canal_102_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7G8sksK.png" group-title="Deportes", Fox Sports 2 prm
 http://iptv.premiumtutv.com/canal_77_.m3u8
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/2gy8t5h.jpg" group-title="Deportes",Univision TDN izzi
+http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/2gy8t5h.jpg" group-title="Deportes",Univision TDN Vall
 http://142.0.43.4:25461/live/televal1l1/televall1956/54.m3u8
 #EXTINF:-1 tvg-logo="http://latino-webtv.com/gallery_gen/127af058e6f74c9564b658bef16954c6_160x80.png" group-title="Deportes",TDN (MX) vall
@@ -98,8 +100,6 @@ http://live.zonasports.me/envivo/ch16/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="Deportes",Deportes Varios4 (ESPN)
 https://clutch.vaughnsoft.net/ord/vl/psn85v.m3u8
 #EXTINF:-1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="Deportes",Deportes Varios5
-https://freeeucache2.streamlive.to/edge/l8b2zwy76fgw52d/chunks.m3u8?nimblesessionid=7613244&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNy8yMDE4IDE6MjU6MTkgQU0maGFzaF92YWx1ZT1KbnVWd0ZEcDl0ZWtINHVMcXlMTjNnPT0mdmFsaWRtaW51dGVzPTMwJnN0cm1fbGVuPTIw
-#EXTINF:-1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="Deportes",Deportes Varios6
 https://lenovo.vipstream.club/hls/ch12allcast2021.m3u8?secure=c2VydmVyX3RpbWU9MS8yNy8yMDE4IDE6MjE6MjggQU0maGFzaF92YWx1ZT1iSVVtZ0JMUnFQbjB6RDM3VjRIdFl3PT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw&expires=1517019688&md5=09vvOJYkdI39O59fX0UkpA
 #EXTINF:-1 group-title="Deportes",SkySports Main Event
 http://www.error56753.website/89d139/live/17804.m3u8
