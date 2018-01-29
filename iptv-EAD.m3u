@@ -26,17 +26,15 @@ http://iptv.premiumtutv.com/canal_59_.m3u8
 #EXTINF:-1 ,http://142.0.43.4:25461/live/televal1l1/televall1956/101.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/09/Logo_Distrito_Comedia.png/revision/latest?cb=20160812222848" group-title="Entretenimiento", Distrito Comedia (MX)
 http://142.0.43.4:25461/live/televal1l1/televall1956/117.m3u8
-#EXTINF:-1, DEPORTES
+
+#EXTINF:0, DEPORTES
 
 #EXTINF:-1 tvg-logo="http://latino-webtv.com/gallery_gen/b42331787eb3c9aea4e6a39789cec9c8_150x80.png" group-title="Deportes",ESPN HD (MX)http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
 #EXTINF:-1 tvg-logo="http://i59.tinypic.com/242bo6v.jpg" group-title="Deportes",ESPN2 HD (MX)http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
 #EXTINF:-1 tvg-logo="http://i62.tinypic.com/e12l42.jpg" group-title="Deportes",ESPN3 (MX)http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN3)/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN izzi
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 2 izzi
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 3 izzi
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN izzihttp://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 2 izzihttp://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 3 izzihttp://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN+ Vall
 http://142.0.43.4:25461/live/televal1l1/televall1956/194.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN Vall
@@ -90,17 +88,9 @@ https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 #EXTINF:-1 group-title="Deportes",NFL Net Vall
 http://142.0.43.4:25461/live/televal1l1/televall1956/76.m3u8
 #EXTINF:-1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="Deportes",Deportes Varios
-http://stream.zonasports.me/envivo/hls13/chunklist_w1078677469.m3u8
-#EXTINF:-1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="Deportes",Deportes Varios1
-http://live.zonasports.me/envivo/ch14/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="Deportes",Deportes Varios2
-http://live.zonasports.me/envivo/ch15/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="Deportes",Deportes Varios3
-http://live.zonasports.me/envivo/ch16/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="Deportes",Deportes Varios4 (ESPN)
-https://clutch.vaughnsoft.net/ord/vl/psn85v.m3u8
-#EXTINF:-1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="Deportes",Deportes Varios5
-https://lenovo.vipstream.club/hls/ch12allcast2021.m3u8?secure=c2VydmVyX3RpbWU9MS8yNy8yMDE4IDE6MjE6MjggQU0maGFzaF92YWx1ZT1iSVVtZ0JMUnFQbjB6RDM3VjRIdFl3PT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw&expires=1517019688&md5=09vvOJYkdI39O59fX0UkpA
+https://clutch.vaughnsoft.net/ord/vl/rojotv.m3u8
+#EXTINF:-1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="Deportes",Deportes Varios (ESPN)
+https://clutch.vaughnsoft.net/ord/vl/psn86v.m3u
 #EXTINF:-1 group-title="Deportes",SkySports Main Event
 http://www.error56753.website/89d139/live/17804.m3u8
 #EXTINF:-1 group-title="Deportes",SkySports 1https://edge3.liveonlinetv247.com/live/skysports1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDE6NDI6NDMgQU0maGFzaF92YWx1ZT1LU1dJNndxZHM2Ny96Vy9wVXo3Z2NRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4Ny4xNDIuMTM4LjIzMCZzdHJtX2xlbj0xOA==|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
@@ -122,24 +112,16 @@ http://peta9.pedromo.me/live/plusdeportes/index.m3u8?token=WamgV3pSTKK9kB_6hezId
 http://peta14.pedromo.me/live/plusdeportes2/index.m3u8?token=-PhZmKRizBKoazah5tHJIA&expires=1516748759|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
 #EXTINF:-1 group-title="Deportes",M+ football
 http://peta157.pedromo.me/live/plusfutbol/index.m3u8?token=09OlmTgsL-miE2rC_Gy3vg&expires=1516748822|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
-#EXTINF:-1 group-title="Deportes",beIN 1
-https://edge2.liveonlinetv247.com/live/bein1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDE6MzA6MjggQU0maGFzaF92YWx1ZT1lb0o4akRTa3IvWVMyYndCdlQwejVBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4Ny4xNDIuMTM4LjIzMCZzdHJtX2xlbj0xMw==|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1 group-title="Deportes",beIN 2
-https://edge2.liveonlinetv247.com/live/bein2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDE6MDM6MzIgQU0maGFzaF92YWx1ZT1nb2hUSGdvQUppTk5YcTkzeE5jcmRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4Ny4xNDIuMTM4LjIzMCZzdHJtX2xlbj0xMw==|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1 group-title="Deportes",beIN 3
-https://edge3.liveonlinetv247.com/live/bein3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDE6MzE6NDYgQU0maGFzaF92YWx1ZT10ZnVreUtUdTdXNzUxMUkvSTI1UUZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4Ny4xNDIuMTM4LjIzMCZzdHJtX2xlbj0xMw==|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1 group-title="Deportes",beIN 4
-https://edge2.liveonlinetv247.com/live/bein4-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDE6MzM6MDcgQU0maGFzaF92YWx1ZT0zTFVpZE9QWXhHQ0JxOUltMFJCMGdBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4Ny4xNDIuMTM4LjIzMCZzdHJtX2xlbj0xMw==|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1 group-title="Deportes",beIN 5
-https://edge3.liveonlinetv247.com/live/bein5-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDE6MzM6NTUgQU0maGFzaF92YWx1ZT1WZVFjNHd3QnpmOEVKclo5d083S3lRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4Ny4xNDIuMTM4LjIzMCZzdHJtX2xlbj0xMw==|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1 group-title="Deportes",beIN 6
-https://edge1.liveonlinetv247.com/live/bein6-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDE6MzQ6MzQgQU0maGFzaF92YWx1ZT01dThmWEFkZlJZaWNaRlFGeFVKL3ZnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4Ny4xNDIuMTM4LjIzMCZzdHJtX2xlbj0xMw==|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1 group-title="Deportes",beIN 7
-https://edge3.liveonlinetv247.com/live/bein7-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDE6MzU6MjYgQU0maGFzaF92YWx1ZT1NS0dibFJwdmkwemxDdUh5S05uUzBBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4Ny4xNDIuMTM4LjIzMCZzdHJtX2xlbj0xMw==|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1 group-title="Deportes",beIN 11 En
-https://edge3.liveonlinetv247.com/live/bein11-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDE6Mzc6MDMgQU0maGFzaF92YWx1ZT1kbXFaMUlBcU5BWnVpZkNGL2ZrdkZBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4Ny4xNDIuMTM4LjIzMCZzdHJtX2xlbj0xNA==|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1 group-title="Deportes",beIN 1https://edge2.liveonlinetv247.com/live/bein1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDE6MzA6MjggQU0maGFzaF92YWx1ZT1lb0o4akRTa3IvWVMyYndCdlQwejVBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4Ny4xNDIuMTM4LjIzMCZzdHJtX2xlbj0xMw==|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1 group-title="Deportes",beIN 2https://edge2.liveonlinetv247.com/live/bein2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDE6MDM6MzIgQU0maGFzaF92YWx1ZT1nb2hUSGdvQUppTk5YcTkzeE5jcmRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4Ny4xNDIuMTM4LjIzMCZzdHJtX2xlbj0xMw==|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1 group-title="Deportes",beIN 3https://edge3.liveonlinetv247.com/live/bein3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDE6MzE6NDYgQU0maGFzaF92YWx1ZT10ZnVreUtUdTdXNzUxMUkvSTI1UUZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4Ny4xNDIuMTM4LjIzMCZzdHJtX2xlbj0xMw==|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1 group-title="Deportes",beIN 4https://edge2.liveonlinetv247.com/live/bein4-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDE6MzM6MDcgQU0maGFzaF92YWx1ZT0zTFVpZE9QWXhHQ0JxOUltMFJCMGdBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4Ny4xNDIuMTM4LjIzMCZzdHJtX2xlbj0xMw==|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1 group-title="Deportes",beIN 5https://edge3.liveonlinetv247.com/live/bein5-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDE6MzM6NTUgQU0maGFzaF92YWx1ZT1WZVFjNHd3QnpmOEVKclo5d083S3lRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4Ny4xNDIuMTM4LjIzMCZzdHJtX2xlbj0xMw==|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1 group-title="Deportes",beIN 6https://edge1.liveonlinetv247.com/live/bein6-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDE6MzQ6MzQgQU0maGFzaF92YWx1ZT01dThmWEFkZlJZaWNaRlFGeFVKL3ZnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4Ny4xNDIuMTM4LjIzMCZzdHJtX2xlbj0xMw==|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1 group-title="Deportes",beIN 7https://edge3.liveonlinetv247.com/live/bein7-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDE6MzU6MjYgQU0maGFzaF92YWx1ZT1NS0dibFJwdmkwemxDdUh5S05uUzBBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4Ny4xNDIuMTM4LjIzMCZzdHJtX2xlbj0xMw==|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1 group-title="Deportes",beIN 11 Enhttps://edge3.liveonlinetv247.com/live/bein11-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDE4IDE6Mzc6MDMgQU0maGFzaF92YWx1ZT1kbXFaMUlBcU5BWnVpZkNGL2ZrdkZBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4Ny4xNDIuMTM4LjIzMCZzdHJtX2xlbj0xNA==|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
 
-#EXTINF:-1,CINE
+#EXTINF:0,CINE
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/hbomax/1.png" group-title="Cine", HBO
 http://200.78.215.85:8010/play/a09r
@@ -201,6 +183,8 @@ http://iptv.premiumtutv.com/canal_78_.m3u8
 http://200.78.215.85:8010/play/a09j
 #EXTINF:-1 group-title="Cine",Discovery Channel
 http://2222.janjuaplayer.com:8088/live/discoverymalosotv666/playlist.m3u8?id=74157&pk=fb0f4fd67ea1bbd44285ace4fe7358ac468a0bbd3b4d91295afa3c21c59faea8
+#EXTINF:-1 group-title="Cine",Discovery Channel Vall
+http://142.0.43.4:25461/live/televal1l1/televall1956/136.m3u8
 #EXTINF:-1 group-title="Cine",Discovery Channel prm
 http://iptv.premiumtutv.com/canal_19_.m3u8
 #EXTINF:-1 tvg-logo="http://www.tntla.com/billboard/images/logo_tnt_grey.png" group-title="Cine", TNT
@@ -229,8 +213,6 @@ http://142.0.43.4:25461/live/televal1l1/televall1956/147.m3u8
 http://iptv.premiumtutv.com/canal_83_.m3u8
 #EXTINF:-1 group-title="Cine",H2 izzihttp://live.izzitv.mx/Content/HLS/Live/Channel(H2)/index.m3u8
 #EXTINF:-1 tvg-logo="http://i62.tinypic.com/23t3zp3.jpg" group-title="Cine",H2 (MX) izzihttp://live.izzitv.mx/Content/HLS/Live/Channel(h2)/index.m3u8
-#EXTINF:-1 group-title="Cine",Discovery Channel Vall
-http://142.0.43.4:25461/live/televal1l1/televall1956/136.m3u8
 #EXTINF:-1 tvg-logo="http://stowerenergy.com/wp-content/uploads/2015/09/nat-geo-logo.jpg" group-title="Cine",Nat Geo (MX)
 http://iptv.premiumtutv.com/canal_23_.m3u8
 #EXTINF:-1,http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
@@ -239,7 +221,7 @@ http://iptv.premiumtutv.com/canal_23_.m3u8
 #EXTINF:-1 tvg-logo="http://i58.tinypic.com/11ryvsw.jpg" group-title="Cine",Nat Geo Wild http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
 
 
-#EXTINF:-1,MUSICA
+#EXTINF:0,MUSICA
 
 #EXTINF:-1 tvg-logo="http://puu.sh/maO70/72d9b8319f.png" group-title="Musica", MTV
 http://2245.janjuaplayer.com:8088/live/mtvmalosotv666/playlist.m3u8?id=74163&pk=fb0f4fd67ea1bbd44285ace4fe7358ac468a0bbd3b4d91295afa3c21c59faea8
@@ -292,7 +274,7 @@ http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklis
 #EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="Musica", 90s
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
 
-#EXTINF:-1,INFANTIL
+#EXTINF:0,INFANTIL
 
 #EXTINF:-1 tvg-logo="http://tbsila.cdn.turner.com/toonla/images/cnemea/site/static-3.1.90/img/cnlogo_social.png" group-title="Infantil",Cartoon Network (MX) Vall
 http://142.0.43.4:25461/live/televal1l1/televall1956/140.m3u8
