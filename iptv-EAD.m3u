@@ -49,8 +49,11 @@ http://iptv.premiumtutv.com/canal_95_.m3u8
 http://iptv.premiumtutv.com/canal_35_.m3u8 
 #EXTINF:-1 group-title="Deportes",ESPN3 prm
 http://iptv.premiumtutv.com/canal_36_.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN+ prm
-http://iptv.premiumtutv.com/canal_103_.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN+ prmhttp://iptv.premiumtutv.com/canal_103_.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 
+http://66.70.177.196:25461/live/gatotv/gatotv/85.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN2 
+http://66.70.177.196:25461/live/gatotv/gatotv/84.m3u8
 #EXTINF:-1 group-title="Deportes",Fox deportes Vall
 http://142.0.43.4:25461/live/televal1l1/televall1956/73.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deportes", Fox Sports
