@@ -36,13 +36,13 @@ http://142.0.43.4:25461/live/televall/02022018/117.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 2 izzihttp://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 3 izzihttp://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN+ Vall
-http://142.0.43.4:25461/live/televall/02022018/194.m3u8
+http://142.0.43.4:25461/live/ligatv2/04022018/194.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN Vall
-http://142.0.43.4:25461/live/televall/02022018/48.m3u8
+http://142.0.43.4:25461/live/ligatv2/04022018/48.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN2 Vall
-http://142.0.43.4:25461/live/televall/02022018/49.m3u8
+http://142.0.43.4:25461/live/ligatv2/04022018/49.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN3 Vall
-http://142.0.43.4:25461/live/televall/02022018/50.m3u8
+http://142.0.43.4:25461/live/ligatv2/04022018/50.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN prm
 http://iptv.premiumtutv.com/canal_95_.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN2 prm 
@@ -55,13 +55,13 @@ http://66.70.177.196:25461/live/gatotv/gatotv/85.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN2 
 http://66.70.177.196:25461/live/gatotv/gatotv/84.m3u8
 #EXTINF:-1 group-title="Deportes",Fox deportes Vall
-http://142.0.43.4:25461/live/televall/02022018/73.m3u8
+http://142.0.43.4:25461/live/ligatv2/04022018/73.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deportes", Fox Sports
-http://142.0.43.4:25461/live/televall/02022018/98.m3u8
+http://142.0.43.4:25461/live/ligatv2/04022018/98.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deportes", Fox Sports 2
-http://142.0.43.4:25461/live/televall/02022018/99.m3u8
+http://142.0.43.4:25461/live/ligatv2/04022018/99.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deportes", Fox Sports 3
-http://142.0.43.4:25461/live/televall/02022018/100.m3u8
+http://142.0.43.4:25461/live/ligatv2/04022018/100.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VtTCCOj.png" group-title="Deportes", Fox Sports prm
 http://iptv.premiumtutv.com/canal_102_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7G8sksK.png" group-title="Deportes", Fox Sports 2 prm
@@ -69,27 +69,27 @@ http://iptv.premiumtutv.com/canal_77_.m3u8
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/2gy8t5h.jpg" group-title="Deportes",Univision TDN izzi
 http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/2gy8t5h.jpg" group-title="Deportes",Univision TDN Vall
-http://142.0.43.4:25461/live/televall/02022018/54.m3u8
+http://142.0.43.4:25461/live/ligatv2/04022018/54.m3u8
 #EXTINF:-1 tvg-logo="http://latino-webtv.com/gallery_gen/127af058e6f74c9564b658bef16954c6_160x80.png" group-title="Deportes",TDN (MX) vall
-http://142.0.43.4:25461/live/televall/02022018/05.m3u8
+http://142.0.43.4:25461/live/ligatv2/04022018/05.m3u8
 #EXTINF:-1 tvg-logo="http://latino-webtv.com/gallery_gen/127af058e6f74c9564b658bef16954c6_160x80.png" group-title="Deportes",TDN (MX) ivall op 2
-http://142.0.43.4:25461/live/televall/02022018/06.m3u8
+http://142.0.43.4:25461/live/ligatv2/04022018/06.m3u8
 #EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/co/recursos_contenido/2757a11d-1590-4f41-905a-e097b8185c1e-Internacional-Claro-Sports.png" group-title="Deportes", Claro Sports
 http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
 #EXTINF:-1 group-title="Deportes",DirecTV Sports Vall
-http://142.0.43.4:25461/live/televall/02022018/121.m3u8
+http://142.0.43.4:25461/live/ligatv2/04022018/121.m3u8
 #EXTINF:-1 tvg-logo="http://cosmocable.mx/imgs/canales/logo_tvcdep.png" group-title="Deportes", TVC Deportes
 https://latamonly-lh.akamaihd.net/i/tvcdeporteshd_1@578064/master.m3u8
 #EXTINF:-1 group-title="Deportes",BeinSports Vall
-http://142.0.43.4:25461/live/televall/02022018/112.m3u8
+http://142.0.43.4:25461/live/ligatv2/04022018/112.m3u8
 #EXTINF:-1 group-title="Deportes",M+ Deportes
-http://142.0.43.4:25461/live/televall/02022018/64.m3u8
+http://142.0.43.4:25461/live/ligatv2/04022018/64.m3u8
 #EXTINF:-1 group-title="Deportes",UniversoSports
-http://142.0.43.4:25461/live/televall/02022018/186.m3u8
+http://142.0.43.4:25461//live/ligatv2/04022018/186.m3u8
 #EXTINF:-1 group-title="Deportes",NFL NOW
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 #EXTINF:-1 group-title="Deportes",NFL Net Vall
-http://142.0.43.4:25461/live/televall/02022018/76.m3u8
+http://142.0.43.4:25461/live/ligatv2/04022018/76.m3u8
 #EXTINF:-1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="Deportes",Deportes Varios (ESPN)
 https://clutch.vaughnsoft.net/ord/vl/psn86v.m3u8
 #EXTINF:-1 group-title="Deportes",SkySports Main Event
