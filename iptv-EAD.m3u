@@ -26,8 +26,6 @@ http://iptv.premiumtutv.com/canal_59_.m3u8
 #EXTINF:-1 ,http://142.0.43.4:25461/live/televall/02022018/101.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/09/Logo_Distrito_Comedia.png/revision/latest?cb=20160812222848" group-title="Entretenimiento", Distrito Comedia (MX)
 http://142.0.43.4:25461/live/televall/02022018/117.m3u8
-#EXTINF:-1 ,Arenavision 21
-http://127.0.0.1:6878/content/07fd3e15e76eb201194b9714a12c8435f8f66eb4
 
 #EXTINF:0, DEPORTES
 
