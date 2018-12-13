@@ -2,7 +2,7 @@
 
 #EXTM3U
 
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/937101449804226560/7CkQB_Ok_400x400.jpg", =Actualizado_DICIEMBRE_07_2018 = 
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/937101449804226560/7CkQB_Ok_400x400.jpg", =Actualizado_DICIEMBRE_09_2018 = 
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/937101449804226560/7CkQB_Ok_400x400.jpg", =La lista es gratis y sin animo de lucro, es una recopilacion de enlaces publicados en Pastebin.com!=
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/937101449804226560/7CkQB_Ok_400x400.jpg", =Mexico - Latinos - Noticias - España- Infantiles - Cultura- CINE - Peliculas - DEPORTES - Musica - Videos Gruperos - Adultos=
 
@@ -17,6 +17,8 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL52/PROFILE05.m3u8
 http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762288&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="MEXICO", Imagen Tv
 http://tv.nousiptv.com:25462/live/Demetrio/Demetrio/4149.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="MEXICO", Imagen Tv
+http://149.56.241.86:25461/live/eliplextv/eliplex9202tv/127.m3u8
 #EXTINF:-1 tvg-logo="https://image.freepik.com/psd-gratis/retro-tv-icono-psd_30-2308.jpg" group-title="MEXICO", CLASICOS ACS
 http://mediacp.live:1935/8468/8468/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5-hd.gif" group-title="MEXICO", Canal 5 HD
@@ -141,12 +143,16 @@ https://5a3911d64928b.streamlock.net/gpacifico1/smil:gpculiacan.smil/chunklist_w
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL66/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="http://elpoderdelasideas.com/wp-content/uploads/unimas_logo_detail-550x605.gif" group-title="Latinos", Unimas
 http://tv.nousiptv.com:25462/live/Demetrio/Demetrio/3795.m3u8
+#EXTINF:-1 tvg-logo="http://elpoderdelasideas.com/wp-content/uploads/unimas_logo_detail-550x605.gif" group-title="Latinos", Unimas
+http://149.56.241.86:25461/live/eliplextv/eliplex9202tv/208.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="Latinos", Univision 
 http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1562.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="Latinos", Univision 
+http://149.56.241.86:25461/live/eliplextv/eliplex9202tv/266.m3u8
 #EXTINF:-1 tvg-logo="http://rec-eph.gfrcdn.net/images/tnph3/295/379/0/0/295/379/2014/10/17/univision141017.jpg" group-title="Latinos", Univisión Puerto Rico
-http://54.36.168.124:25461/live/182529e/tvpremiumhd.com/2202.ts
+http://149.56.241.86:25461/live/eliplextv/eliplex9202tv/8055.m3u8
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/wp-content/uploads/2012/11/Galavision_3D.jpg" group-title="Latinos", GALAVISION
-http://54.36.168.124:25461/live/182529e/tvpremiumhd.com/2405.ts
+http://149.56.241.86:25461/live/eliplextv/eliplex9202tv/209.m3u8
 #EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/telemundo.gif" group-title="Latinos", TELEMUNDO
 http://ktmdlive-lh.akamaihd.net/i/KTMD_LIVE1@183610/master.m3u8
 #EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/telemundo.gif" group-title="Latinos", TELEMUNDO
@@ -156,7 +162,7 @@ http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1563.m3u8
 #EXTINF:-1 tvg-logo="http://t3mexico.mx/team/wp-content/uploads/2017/04/estrella-tv-logo-695x463.png" group-title="Latinos", ESTRELLA TV
 http://tv.latintvweb.com:25461/live/correodeyagopardo/4RaFKXKSPo/98909.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Na97VWhc-QE/U9bmoF5w3VI/AAAAAAAAtPU/5MFPr-OHcIQ/s1600/Telemundo.PNG" group-title="Latinos", TELEMUNDO PR
-http://54.36.168.124:25461/live/182529e/tvpremiumhd.com/2203.ts
+http://149.56.241.86:25461/live/eliplextv/eliplex9202tv/8058.m3u8
 #EXTINF:-1 tvg-logo="http://tvbtn.files.wordpress.com/2015/02/nbc-universo-logo.jpg?w=1100" group-title="Latinos", NBC Universo
 http://tv.nousiptv.com:25462/live/Demetrio/Demetrio/3757.m3u8
 #EXTINF:-1 tvg-logo="http://photos.prNEWSwire.com/prnvar/20120316/CL71752LOGO" group-title="Latinos", Mega TV
@@ -180,7 +186,7 @@ http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/2307.m3u8
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/1.png" group-title="Latinos", Glitz
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL270/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/bc/500px-WAPA-TV_logo_2007_TAG_spot_svg.png" group-title="Latinos", Wapa
-http://54.36.168.124:25461/live/182529e/tvpremiumhd.com/2204.ts
+http://149.56.241.86:25461/live/eliplextv/eliplex9202tv/8054.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-TV9bFojvv3w/V1YUoSQ6aHI/AAAAAAAA0xk/fgz13awlu1Ull6Ad3qPVDYNp1gRHZYCkACLcB/s1600/WIPR%2BTV.PNG" group-title="Latinos", WIPR
 http://api.new.livestream.com/accounts/16550960/events/8077197/live.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfHFI46D0L9hJlebcoAJlt4e0hslTxJ5I1CK1g=s900-mo-c-c0xffffffff-rj-k-no" group-title="Latinos", ULTRA LUNA 
@@ -1684,8 +1690,6 @@ http://tv.latintvweb.com:25461/live/correodeyagopardo/4RaFKXKSPo/34542.m3u8
 http://tv.nousiptv.com:25462/live/Demetrio/Demetrio/4117.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mbLw0/cf67511fa3.png" group-title="DEPORTES", Univision TDN
 http://tv.latintvweb.com:25461/live/correodeyagopardo/4RaFKXKSPo/34856.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbLw0/cf67511fa3.png" group-title="DEPORTES", Univision TDN
-http://app.cableplay.net:25461/live/Ariel_Zaritzky/NxAJ8tFqCz/8064.m3u8
 #EXTINF:-1 tvg-logo="http://allvectorlogo.com/img/2016/07/univision-deportes-logo.png" group-title="DEPORTES", Univision Deportes
 http://tv.nousiptv.com:25462/live/Demetrio/Demetrio/3751.m3u8
 #EXTINF:-1 tvg-logo="http://allvectorlogo.com/img/2016/07/univision-deportes-logo.png" group-title="DEPORTES", Univision Deportes
@@ -1695,7 +1699,7 @@ http://tv.latintvweb.com:25461/live/correodeyagopardo/4RaFKXKSPo/11607.m3u8
 #EXTINF:-1 tvg-logo="https://www.comparaiso.es/sites/comparaiso.es/files/images/portada-sky-sports.jpg" group-title="DEPORTES", SKY Sports
 http://54.39.52.89:25461/live/cablegratis/graciasporlapubli/66.ts
 #EXTINF:-1 tvg-logo="https://i1.wp.com/webadictos.com/media/2018/06/izzi-affizionados.jpg" group-title="DEPORTES", Izzi Afizzionados
-http://app.cableplay.net:25461/live/Ariel_Zaritzky/NxAJ8tFqCz/8062.m3u8
+http://149.56.241.86:25461/live/eliplextv/eliplex9202tv/7691.m3u8
 #EXTINF:-1 tvg-logo="http://tmsimg.video.cdn.charter.com/h3/NowShowing/16365/s16365_h3_aa.png" group-title="DEPORTES", CBS Sports
 http://tv.nousiptv.com:25462/live/Demetrio/Demetrio/8225.m3u8
 #EXTINF:-1 tvg-logo="http://mhc.banhtml.com/wp-content/uploads/2016/02/Nbc-sports-logo-600x450.png" group-title="DEPORTES", NBC Sports
@@ -2516,9 +2520,9 @@ http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="XXX Adultos", PlayboyX Tv
 http://tv.nousiptv.com:25462/live/Demetrio/Demetrio/3465
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="XXX Adultos", PlayboyX Tv
-http://app.cableplay.net:25461/live/Ariel_Zaritzky/NxAJ8tFqCz/7481.m3u8
+http://149.56.241.86:25461/live/eliplextv/eliplex9202tv/8150.m3u8
 #EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", HOT
-http://app.cableplay.net:25461/live/Ariel_Zaritzky/NxAJ8tFqCz/7480.m3u8
+http://149.56.241.86:25461/live/eliplextv/eliplex9202tv/7891.m3u8
 #EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", HOT
 http://tv.latintvweb.com:25461/live/correodeyagopardo/4RaFKXKSPo/86315.m3u8
 #EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", Dusk
@@ -2526,7 +2530,7 @@ http://5.135.92.138:58143/out/u/109_1.m3u8
 #EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", Dusk
 http://tv.latintvweb.com:25461/live/correodeyagopardo/4RaFKXKSPo/86381.m3u8
 #EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", Juice
-http://app.cableplay.net:25461/live/Ariel_Zaritzky/NxAJ8tFqCz/9038.m3u8
+http://149.56.241.86:25461/live/eliplextv/eliplex9202tv/6983.m3u8
 #EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", Juice
 http://tv.latintvweb.com:25461/live/correodeyagopardo/4RaFKXKSPo/86319.m3u8
 #EXTINF:-1 tvg-logo="http://totaltv.tv/oec/images/tv_channels/bdc6d5c54bd382de621a6c1ec682ff89.png" group-title="XXX Adultos", SEXTATION
@@ -2534,25 +2538,25 @@ http://iptv.wtf:25461/live/Mpedreros/Morreiro1/14049.m3u8
 #EXTINF:-1 tvg-logo="http://totaltv.tv/oec/images/tv_channels/bdc6d5c54bd382de621a6c1ec682ff89.png" group-title="XXX Adultos", SEXTATION
 http://tv.latintvweb.com:25461/live/correodeyagopardo/4RaFKXKSPo/86408.3u8
 #EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", You Porn 
-http://app.cableplay.net:25461/live/Ariel_Zaritzky/NxAJ8tFqCz/8100.m3u8
+http://149.56.241.86:25461/live/eliplextv/eliplex9202tv/6995.m3u8
 #EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", You Porn 
-http://app.cableplay.net:25461/live/Ariel_Zaritzky/NxAJ8tFqCz/8106.m3u8
+http://149.56.241.86:25461/live/eliplextv/eliplex9202tv/6993.m3u8
 #EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", PenthouseX
-http://app.cableplay.net:25461/live/Ariel_Zaritzky/NxAJ8tFqCz/9039.m3u8
+http://149.56.241.86:25461/live/eliplextv/eliplex9202tv/7890.m3u8
 #EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", PenthouseX
 http://tv.latintvweb.com:25461/live/correodeyagopardo/4RaFKXKSPo/86313.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png" group-title="XXX Adultos", Sextreme
-http://app.cableplay.net:25461/live/Ariel_Zaritzky/NxAJ8tFqCz/7729.m3u8
+http://149.56.241.86:25461/live/eliplextv/eliplex9202tv/7893.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png" group-title="XXX Adultos", Sextreme
 #EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
 http://37.187.128.169:8000/live/8iPlAaYyEeRr14119848/ar886o33b218/51.ts
 #EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS
-http://app.cableplay.net:25461/live/Ariel_Zaritzky/NxAJ8tFqCz/7169.m3u8
+http://149.56.241.86:25461/live/eliplextv/eliplex9202tv/6996.m3u8
 #EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS (Wiseplay)
 #EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
 http://37.187.128.169:8000/live/8iPlAaYyEeRr14119848/ar886o33b218/48.ts
 #EXTINF:-1 tvg-logo="https://s19.postimg.org/t9qpt32f7/HUSTLER.png" group-title="XXX Adultos", HustlerXXX
-http://app.cableplay.net:25461/live/Ariel_Zaritzky/NxAJ8tFqCz/9040.m3u8
+http://149.56.241.86:25461/live/eliplextv/eliplex9202tv/7894.m3u8
 #EXTINF:-1 tvg-logo="https://s19.postimg.org/t9qpt32f7/HUSTLER.png" group-title="XXX Adultos", HustlerXXX (Wiseplay)
 #EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
 http://37.187.128.169:8000/live/8iPlAaYyEeRr14119848/ar886o33b218/2257.ts
@@ -2567,7 +2571,7 @@ http://iptv.wtf:25461/live/Mpedreros/Morreiro1/8302.m3u8
 #EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
 http://37.187.128.169:8000/live/8iPlAaYyEeRr14119848/ar886o33b218/49.ts
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/48/Logo_venus_out_color.jpg" group-title="XXX Adultos", VENUS
-http://app.cableplay.net:25461/live/Ariel_Zaritzky/NxAJ8tFqCz/7479.m3u8
+http://149.56.241.86:25461/live/eliplextv/eliplex9202tv/6999.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/48/Logo_venus_out_color.jpg" group-title="XXX Adultos", VENUS (Wiseplay)
 #EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
 http://37.187.128.169:8000/live/8iPlAaYyEeRr14119848/ar886o33b218/50.ts
