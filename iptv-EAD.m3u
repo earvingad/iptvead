@@ -156,6 +156,8 @@ http://149.56.241.86:25461/live/eliplextv/eliplex9202tv/209.m3u8
 #EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/telemundo.gif" group-title="Latinos", TELEMUNDO
 http://ktmdlive-lh.akamaihd.net/i/KTMD_LIVE1@183610/master.m3u8
 #EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/telemundo.gif" group-title="Latinos", TELEMUNDO
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/telemundo.gif" group-title="Latinos", TELEMUNDO
 http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762212&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/telemundo.gif" group-title="Latinos", TELEMUNDO
 http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1563.m3u8
